@@ -1,4 +1,8 @@
 ## Hi there 👋
+👨‍🎓  I'm currently studying "Applied Artificial Intelligence" at Soutwestphalia University of Applied Sciences
+🛠  I work as a PLC-Programmer in special machine construction  
+
+
 
 <!--
 **julwilke/julwilke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
