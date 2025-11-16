@@ -1,5 +1,5 @@
 ## Hi there 👋
-👨‍🎓  I'm currently studying "Applied Artificial Intelligence" at Soutwestphalia University of Applied Sciences
+👨‍🎓  I'm currently studying "Applied Artificial Intelligence" at Soutwestphalia University of Applied Sciences  
 🛠  I work as a PLC-Programmer in special machine construction  
 
 
