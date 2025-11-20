@@ -1,6 +1,6 @@
 ## Hi there 👋
-👨‍🎓  I'm currently studying the masters degree "Applied Artificial Intelligence" at Soutwestphalia University of Applied Sciences  
-🛠  I work as a PLC-Programmer in special machine construction  
+👨‍🎓 Studying "Applied Artificial Intelligence (M.Sc.)"
+🛠  PLC-Programmer in special machine construction  
 🎓 B.Eng. Mechatronics
 
 
