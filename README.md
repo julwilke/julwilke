@@ -1,6 +1,8 @@
 ## Hi there 👋
 👨‍🎓 Studying "Applied Artificial Intelligence (M.Sc.)"
+
 🛠  PLC-Programmer in special machine construction  
+
 🎓 B.Eng. Mechatronics
 
 
