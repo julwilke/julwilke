@@ -5,36 +5,25 @@ I'm an engineer working at the intersection of **industrial automation** and **a
 👨‍🎓 Studying M.Sc. Applied Artificial Intelligence (part-time)  
 🎓 B.Eng. Mechatronics  
 🛠 PLC Programmer in special machinery 
-> Engineering first. AI where it makes sense.
+
+🔗 Bridging **automation engineering** and **applied artificial intelligence** in practical, real-world applications.
+
+> "Engineering first. AI where it makes sense."
 ---
 
-## What I actually do
+## 🔧 What I work on
 
-- Design, program and retrofit industrial machines (PLC, real-world constraints included)
-- Build Python-based systems for data analysis, visualization and decision support
-- Connect classical engineering with modern AI methods instead of treating them as buzzwords
-
----
-
-## Technical focus
-
-**Industrial & Systems**
-- PLC programming (industrial automation, special machinery)
-- System architecture, clean interfaces, maintainable code
-- Linux, Git, structured workflows
-
-**Software & AI**
-- Python (data analysis, APIs, dashboards)
-- Interested in data visualization and analysis projects
-- Applied AI with emphasis on robustness and explainability
+- 🏭 Industrial automation and machine control under real-world constraints  
+- 📊 Python-based data analysis and visualization for decision support  
+- 🤖 Applied AI where it actually adds value in engineering contexts  
 
 ---
 
-## Current interests
+## 🧠 Focus areas
 
-- Bridging automation engineering and AI in practical applications
-- Clean project structures over quick hacks
-- Long-term maintainability over demo-driven code
+- Automation engineering & special-purpose machinery  
+- Data analysis and visualization with real-world data  
+- Applied AI with emphasis on robustness and explainability  
 
 ---
 
