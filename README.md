@@ -25,7 +25,7 @@ I'm an engineer working at the intersection of **industrial automation** and **a
 
 **Software & AI**
 - Python (data analysis, APIs, dashboards)
-- Interested in data visualization and analization projects
+- Interested in data visualization and analysis projects
 - Applied AI with emphasis on robustness and explainability
 
 ---
